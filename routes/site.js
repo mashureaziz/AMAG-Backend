@@ -18,7 +18,7 @@ router.get("/sites", async (req, res) => {
   // Simulate aritifical API delay
   setTimeout(() => {
     res.status(200).json(sites);
-  }, 500);
+  }, 5);
 });
 
 //Get site Details
@@ -34,7 +34,7 @@ router.get("/sites", async (req, res) => {
     // Simulate aritifical API delay
     setTimeout(() => {
       res.json(site);
-    }, 1000);
+    }, 5);
   });
 
 // Create new Site
@@ -82,7 +82,7 @@ router.post("/site", async (req, res) => {
   // Simulate aritifical API delay
   setTimeout(() => {
     res.json(newSite);
-  }, 1000);
+  }, 5);
 });
 
 // Update site
