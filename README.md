@@ -2,6 +2,8 @@
 
 Assignment for Full-Stack engineer position for AMAG technology.
 
+## Project Demo
+http://54.151.129.125:3000
 ---
 ## Requirements
 
