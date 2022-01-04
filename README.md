@@ -45,9 +45,9 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/ mashureaziz/AMAG-Backend 
+    $ git clone https://github.com/mashureaziz/AMAG-Backend 
     $ cd AMAG-Backend
-    $ yarn install
+    $ npm install
 
 
 ## Running the project
@@ -58,7 +58,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Running tests
 
     $ npm test (Run unit tests)
-    $ npm supertest (Run API tests)
+    $ npm apiTest (Run API tests)
     
 
 ## Simple build for production
