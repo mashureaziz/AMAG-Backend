@@ -1,25 +1,6 @@
 # AMAG-Backend
 
-Skip to content
-All gists
-Back to GitHub
-@mashureaziz
-@Igormandello
-Igormandello/Node.js project readme template
-Last active 28 days ago • Report abuse
-
-20
-
-    4
-
-Code
-Revisions 5
-Stars 20
-Forks 4
-Node.js project readme template
-# Project Title
-
-A nice project with a nice description
+Assignment for Full-Stack engineer position for AMAG technology.
 
 ---
 ## Requirements
@@ -64,43 +45,24 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
+    $ git clone https://github.com/ mashureaziz/AMAG-Backend 
+    $ cd AMAG-Backend
     $ yarn install
 
-## Configure app
-
-Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
-
-- A setting;
-- Another setting;
-- One more setting;
 
 ## Running the project
 
-    $ yarn start
+    $ npm start
+    
+
+## Running tests
+
+    $ npm test (Run unit tests)
+    $ npm supertest (Run API tests)
+    
 
 ## Simple build for production
 
-    $ yarn build
-@ResponsiveWebApps
-ResponsiveWebApps commented on 20 Sep 2020
+    $ npm build
 
-Can I make a pull request to fix the spelling?
-@mashureaziz
-Attach files by dragging & dropping, selecting or pasting them.
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
 
